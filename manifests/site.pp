@@ -72,6 +72,21 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
+  # stuff i want
+  include iterm2
+  include chrome
+  include transmission
+  include sublime_text_2
+  include tmux
+  include firefox
+  include textexpander
+  include dropbox
+  include wunderlist
+  include wget
+  include spotify
+  include heroku
+  include colloquy
+
   # common, useful packages
   package {
     [
