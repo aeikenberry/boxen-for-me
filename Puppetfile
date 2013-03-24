@@ -33,3 +33,17 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "iterm2",         "1.0.2"
+github "chrome",         "1.1.0"
+github "transmission",   "1.0.0"
+github "sublime_text_2", "1.1.0"
+github "tmux",           "1.0.1"
+github "firefox",        "1.0.3"
+github "dropbox",        "1.1.0"
+github "textexpander",   "1.0.0"
+github "wunderlist",     "1.0.0"
+github "wget", 			 "1.0.0"
+github "spotify",        "1.0.0"
+github "heroku",         "1.0.0"
+github "colloquy", 		 "1.0.0"
